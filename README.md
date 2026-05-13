@@ -69,6 +69,7 @@ MS Island Breeze has the highest load factor in the fleet at 88.4%, but the lowe
 **4. Load factor declined sharply heading into Q2**
 
 January opened at 94.7%, the highest month in the dataset. By April it had dropped to 80.4% before partially recovering in May and June. Revenue followed the same pattern, falling from $45.4M in January to $46.6M in April before climbing to $59.7M in June. The partial recovery is encouraging but the Q1 to Q2 drop is worth watching as H2 planning begins.
+
 ---
 
 ## What the Data Showed
