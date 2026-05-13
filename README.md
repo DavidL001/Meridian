@@ -2,7 +2,7 @@
   <img src="images/meridian_logo.png" alt="Meridian Voyages" width="420"/>
 </p>
 
-# Meridian Voyages Fleet Performance Analysis
+# Meridian Voyages: Fleet Yield & Occupancy Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-1A3A5C?style=flat&logo=postgresql&logoColor=white) &nbsp; ![Tableau](https://img.shields.io/badge/Tableau-1A3A5C?style=flat&logo=tableau&logoColor=white) &nbsp; ![Oracle](https://img.shields.io/badge/Oracle_APEX-1A3A5C?style=flat&logo=oracle&logoColor=white)
 
