@@ -1,0 +1,7 @@
+ship_id,ship_name,ship_class,passenger_capacity,cabin_count,crew_count,year_built,home_port
+SHP-001,MS Meridian Star,Grand,2800,1400,1100,2018,Miami
+SHP-002,MS Coral Dream,Grand,2600,1300,1020,2016,Miami
+SHP-003,MS Pacific Wind,Explorer,1800,900,720,2015,Los Angeles
+SHP-004,MS Atlantic Grace,Explorer,1600,800,650,2014,New York
+SHP-005,MS Northern Spirit,Voyager,1200,600,490,2012,Seattle
+SHP-006,MS Island Breeze,Voyager,1000,500,410,2011,Miami

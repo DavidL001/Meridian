@@ -1,0 +1,11 @@
+route_id,route_name,route_type,departure_port,destination_region,duration_days,ports_of_call
+RT-001,Western Caribbean Classic,Caribbean,Miami,Caribbean,7,"Cozumel, Grand Cayman, Jamaica"
+RT-002,Eastern Caribbean Explorer,Caribbean,Miami,Caribbean,7,"Nassau, St. Thomas, Puerto Rico"
+RT-003,Caribbean Grand Voyage,Caribbean,Miami,Caribbean,14,"Aruba, Curacao, Barbados, St. Lucia, Antigua"
+RT-004,Mexican Riviera Getaway,Pacific Coast,Los Angeles,Mexico,7,"Cabo San Lucas, Mazatlan, Puerto Vallarta"
+RT-005,Pacific Coast Adventure,Pacific Coast,Los Angeles,Pacific Coast,7,"San Francisco, Victoria BC, Vancouver"
+RT-006,Alaska Inside Passage,Alaska,Seattle,Alaska,7,"Juneau, Skagway, Ketchikan, Victoria BC"
+RT-007,Alaska Glacier Discovery,Alaska,Seattle,Alaska,10,"Juneau, Glacier Bay, Sitka, Hubbard Glacier"
+RT-008,New England & Canada,Atlantic,New York,New England,7,"Boston, Bar Harbor, Halifax, Quebec City"
+RT-009,Bermuda Escape,Atlantic,New York,Bermuda,7,"Kings Wharf, Hamilton, St. George"
+RT-010,Bahamas Long Weekend,Caribbean,Miami,Bahamas,4,"Nassau, CocoCay"
