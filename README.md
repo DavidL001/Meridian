@@ -32,7 +32,7 @@
 > Please click on one of the images to navigate to Tableau dashboard
 
 [![Meridian Fleet Overview](images/meridian_fleet_overview.png)](https://public.tableau.com/app/profile/david.lugo/viz/MeridianVoyagesPerformance/MeridianVoagesFleetPerformance)
-[![Meridian Revenue Mix](images/meridian_revenue_mix.png)]([https://public.tableau.com/YOUR_DASHBOARD_LINK_HERE](https://public.tableau.com/app/profile/david.lugo/viz/MeridianVoyagesPerformance/MeridianVoagesFleetPerformance))
+[![Meridian Revenue Mix](images/meridian_revenue_mix.png)](https://public.tableau.com/app/profile/david.lugo/viz/MeridianVoyagesPerformance/MeridianVoagesFleetPerformance)
 
 ---
 
